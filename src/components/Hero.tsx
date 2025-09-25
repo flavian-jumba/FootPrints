@@ -30,7 +30,7 @@ const Hero = () => {
 
           {/* Call-to-action buttons */}
                     <div className="flex flex-col sm:flex-row gap-4 justify-center mb-20">
-                        <Button size="lg" className="bg-orange-500 hover:bg-orange-600 text-white text-lg px-8 py-4 transition-transform transform hover:scale-105">
+                                    <Button size="lg" className="bg-[#d91e98] hover:bg-[#b81b82] text-white text-lg px-8 py-4 transition-transform transform hover:scale-105">
               See Our Programs
               <ArrowRight className="ml-2 w-5 h-5" />
             </Button>
