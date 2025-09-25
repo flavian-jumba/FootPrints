@@ -112,7 +112,7 @@ const Programs = () => {
         {/* Call to Action */}
         <div className="text-center mt-16 animate-fade-in-up">
           <div className="inline-flex flex-col sm:flex-row gap-4">
-            <Button size="lg" className="btn-donate">
+                        <Button size="lg" className="bg-[#d91e98] hover:bg-[#b81b82] text-white">
               Support Our Programs
             </Button>
             <Button size="lg" variant="outline">

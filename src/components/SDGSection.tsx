@@ -104,7 +104,7 @@ const SDGSection = () => {
               Our commitment to the SDGs ensures that every initiative creates lasting positive change 
               that aligns with global efforts toward a more sustainable and equitable world.
             </p>
-            <Button size="lg" className="bg-white text-primary hover:bg-white/90">
+                        <Button size="lg" className="bg-[#d91e98] hover:bg-[#b81b82] text-white">
               Learn More About Our Alignment
             </Button>
           </div>

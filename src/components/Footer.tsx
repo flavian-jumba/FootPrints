@@ -126,7 +126,7 @@ const Footer = () => {
                   placeholder="Your email" 
                   className="bg-white/20 border-white/30 text-white placeholder:text-white/60 focus:bg-white/30"
                 />
-                <Button className="bg-white text-primary hover:bg-white/90 whitespace-nowrap">
+                                <Button className="bg-[#d91e98] hover:bg-[#b81b82] text-white whitespace-nowrap">
                   Subscribe
                 </Button>
               </div>
@@ -192,7 +192,7 @@ const Footer = () => {
             <p className="text-white/90 mb-6 max-w-2xl mx-auto">
               Your support helps transform lives and communities. Every donation makes a lasting impact.
             </p>
-            <Button size="lg" className="bg-white text-warmth hover:bg-white/90">
+                        <Button size="lg" className="bg-[#d91e98] hover:bg-[#b81b82] text-white">
               Donate Now
               <Heart className="ml-2 w-5 h-5" fill="currentColor" />
             </Button>

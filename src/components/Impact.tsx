@@ -101,7 +101,7 @@ const Impact = () => {
             </p>
           </div>
           <div className="inline-flex flex-col sm:flex-row gap-4">
-            <Button size="lg" className="btn-donate">
+                        <Button size="lg" className="bg-[#d91e98] hover:bg-[#b81b82] text-white">
               Make a Donation
             </Button>
             <Button size="lg" variant="outline">
